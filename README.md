@@ -1,5 +1,5 @@
 # Virtual Interviewer
-[![Watch the video](thumbnail.jpg)](vid.mp4)
+![Virtual Interviewer Screenshot](pic.png)
 
 
 
