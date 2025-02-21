@@ -1,5 +1,5 @@
 # Virtual Interviewer
-[![Watch the video](thumbnail.jpg)](assets/vid.mp4)
+[![Watch the video](thumbnail.jpg)](vid.mp4)
 
 
 
