@@ -1,5 +1,7 @@
 # Virtual Interviewer
-![Virtual Interviewer Screenshot](image.png)
+[![Watch the video](assets/thumbnail.png)](assets/video.mp4)
+
+
 
 **Virtual Interviewer** is an AI-powered platform designed to assist job seekers in preparing for interviews. It integrates several advanced technologies, including **ATS scoring**, **personalized interview questions generation**, and **voice input analysis**. Built using **Python**, **Streamlit**, and various NLP models, this tool provides valuable feedback to optimize resumes and improve interview responses.
 
